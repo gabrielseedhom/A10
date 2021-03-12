@@ -43,5 +43,5 @@ a:hover,a:focus{
 footer p{
 	text-align: center;
 }
-header h3.shadow{
-	color :#800000;
+header h3{
+	text-shadow:#800000;
